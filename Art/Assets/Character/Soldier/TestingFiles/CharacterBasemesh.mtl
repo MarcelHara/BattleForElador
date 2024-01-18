@@ -1,0 +1,51 @@
+# Blender MTL File: 'Character Rigging.blend'
+# Material Count: 5
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl initialShadingGroup.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.301722 0.301722 0.301722
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\joshu\\OneDrive\\Documents\\GAM110\\TD Game\\Textures\\SoldierHelmet\\SoldierHelmetRed.png
+
+newmtl lambert1
+Ns 119.459114
+Ka 1.000000 1.000000 1.000000
+Kd 0.730461 0.491021 0.266356
+Ks 0.495455 0.495455 0.495455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl lambert1.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl lambert1.003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
